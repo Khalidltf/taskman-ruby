@@ -1,0 +1,15 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    colorize (0.8.1)
+    json (2.6.3)
+
+PLATFORMS
+  x86_64-darwin-19
+
+DEPENDENCIES
+  colorize (~> 0.8.1)
+  json (~> 2.6, >= 2.6.3)
+
+BUNDLED WITH
+   2.2.3
